@@ -56,3 +56,32 @@ a:active{
     box-shadow: none;
     top: 6px;
 }
+
+p {
+    width: 50px;
+    height: 50px;
+    background-color: #1abc9c;
+}
+
+p:hover {
+    transform: translate(20px, 20px);
+}
+
+p.move-right {
+    background-color: #3498db;
+    transform: translateX(100px);
+}
+
+p.move-down {
+    background-color: #fcad26;
+    transform: translateY(20px);
+}
+
+.transformed{
+    transform: scale(2);
+    transform-origin: 0 0;
+}
+
+.rotate {
+    transform: rotate(45deg);
+}
