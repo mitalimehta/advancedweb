@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/advancedweb.iml" filepath="$PROJECT_DIR$/.idea/advancedweb.iml" />
+      <module fileurl="file://$USER_HOME$/nsls/.idea/nsls.iml" filepath="$USER_HOME$/nsls/.idea/nsls.iml" />
     </modules>
   </component>
 </project>
