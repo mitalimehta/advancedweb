@@ -21,24 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="155fba17-1d41-46a9-bc4e-ca27b66b383f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/flexbox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/holygrail.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imagegallery.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/keyframe.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/loading.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/navbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/polygon.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/sunset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flexbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/holygrail.html" beforeDir="false" afterPath="$PROJECT_DIR$/holygrail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagegallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/imagegallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keyframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/keyframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loading.html" beforeDir="false" afterPath="$PROJECT_DIR$/loading.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polygon.html" beforeDir="false" afterPath="$PROJECT_DIR$/polygon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sunset.html" beforeDir="false" afterPath="$PROJECT_DIR$/sunset.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626203132332</updated>
-      <workItem from="1626203133386" duration="12967000" />
+      <workItem from="1626203133386" duration="17907000" />
     </task>
     <servers />
   </component>
